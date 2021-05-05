@@ -1,7 +1,8 @@
 
 # Boilerplate Nextjs
 
-These are boilerplates projects to be used by the team when starting a new project
+This is a boilerplate project to be used at the beginning of a new project
+
 ## What is inside?
 
 This project uses lot of stuff as:
@@ -54,6 +55,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## TODO LIST
   - [ ] add [cypress](https://www.cypress.io/)
-  - [ ] add pipeline bitbucket
+  - [ ] add CI Travis pipeline
   - [ ] add Google Analytics
   - [ ] add Microsoft Clarity
