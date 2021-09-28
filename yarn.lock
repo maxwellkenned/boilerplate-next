@@ -225,14 +225,7 @@
   dependencies:
     "@babel/types" "^7.15.4"
 
-"@babel/helper-module-imports@^7.0.0", "@babel/helper-module-imports@^7.10.4", "@babel/helper-module-imports@^7.12.13", "@babel/helper-module-imports@^7.13.12":
-  version "7.13.12"
-  resolved "https://registry.yarnpkg.com/@babel/helper-module-imports/-/helper-module-imports-7.13.12.tgz#c6a369a6f3621cb25da014078684da9196b61977"
-  integrity sha512-4cVvR2/1B693IuOvSI20xqqa/+bl7lqAMR59R4iu39R9aOX8/JoYY1sFaNvUMyMBGnHdwvJgUrzNLoUZxXypxA==
-  dependencies:
-    "@babel/types" "^7.13.12"
-
-"@babel/helper-module-imports@^7.15.4":
+"@babel/helper-module-imports@^7.0.0", "@babel/helper-module-imports@^7.10.4", "@babel/helper-module-imports@^7.12.13", "@babel/helper-module-imports@^7.13.12", "@babel/helper-module-imports@^7.15.4":
   version "7.15.4"
   resolved "https://registry.yarnpkg.com/@babel/helper-module-imports/-/helper-module-imports-7.15.4.tgz#e18007d230632dea19b47853b984476e7b4e103f"
   integrity sha512-jeAHZbzUwdW/xHgHQ3QmWR4Jg6j15q4w/gCfwZvtqOxoo5DKtLHk8Bsf4c5RZRC7NmLEs+ohkdq8jFefuvIxAA==
@@ -2797,7 +2790,7 @@
   resolved "https://registry.yarnpkg.com/@types/stack-utils/-/stack-utils-2.0.0.tgz#7036640b4e21cc2f259ae826ce843d277dad8cff"
   integrity sha512-RJJrrySY7A8havqpGObOB4W92QXKJo63/jFLLgpvOtsGUqbQZ9Sbgl35KMm1DjC6j7AvmmU2bIno+3IyEaemaw==
 
-"@types/styled-components@^5.1.14":
+"@types/styled-components@^5.1.9":
   version "5.1.14"
   resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-5.1.14.tgz#e9cf8cdb5eef9d139628183a84c083f630635d67"
   integrity sha512-d6P1/tyNytqKwam3cQXq7a9uPtovc/mdAs7dBiz1YbDdNIT3X4WmuFU78YdSYh84TXVuhOwezZ3EeKuNBhwsHQ==
@@ -3732,10 +3725,10 @@ babel-plugin-react-docgen@^4.2.1:
     lodash "^4.17.15"
     react-docgen "^5.0.0"
 
-"babel-plugin-styled-components@>= 1.12.0", babel-plugin-styled-components@^1.12.0:
-  version "1.12.0"
-  resolved "https://registry.yarnpkg.com/babel-plugin-styled-components/-/babel-plugin-styled-components-1.12.0.tgz#1dec1676512177de6b827211e9eda5a30db4f9b9"
-  integrity sha512-FEiD7l5ZABdJPpLssKXjBUJMYqzbcNzBowfXDCdJhOpbhWiewapUaY+LZGT8R4Jg2TwOjGjG4RKeyrO5p9sBkA==
+"babel-plugin-styled-components@>= 1.12.0", babel-plugin-styled-components@^1.13.2:
+  version "1.13.2"
+  resolved "https://registry.yarnpkg.com/babel-plugin-styled-components/-/babel-plugin-styled-components-1.13.2.tgz#ebe0e6deff51d7f93fceda1819e9b96aeb88278d"
+  integrity sha512-Vb1R3d4g+MUfPQPVDMCGjm3cDocJEUTR7Xq7QS95JWWeksN1wdFRYpD2kulDgI3Huuaf1CZd+NK4KQmqUFh5dA==
   dependencies:
     "@babel/helper-annotate-as-pure" "^7.0.0"
     "@babel/helper-module-imports" "^7.0.0"
